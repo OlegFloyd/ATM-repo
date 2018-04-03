@@ -1,4 +1,4 @@
-#pragma once
+
 #ifndef CASHDISPENSER_H
 #define CASHDISPENSER_H
 class CashDispenser

@@ -1,4 +1,4 @@
-#pragma once
+
 #ifndef DEPOSITSLOT_H
 #define DEPOSITSLOT_H
 class DepositSlot

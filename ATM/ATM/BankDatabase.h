@@ -1,6 +1,9 @@
-#pragma once
+
 #ifndef BANKDATABASE_H
 #define BANKDATABASE_H
+
+class Account;
+
 class BankDatabase
 {
 public:
@@ -11,6 +14,8 @@ public:
 	double getTotalBalance();
 	void credit();
 	void debit();
+private:
+	Account &account;
 };
 #endif
 

@@ -1,4 +1,4 @@
-#pragma once
+
 #ifndef DEPOSIT_H
 #define DEPOSIT_H
 class Deposit

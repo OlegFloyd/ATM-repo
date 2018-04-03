@@ -1,4 +1,4 @@
-#pragma once
+
 #ifndef BALANCEINQUIRY_H
 #define BALANCEINQUIRY_H
 class BalanceInquiry
